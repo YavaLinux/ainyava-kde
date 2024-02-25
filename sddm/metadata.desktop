@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Ainyava
+Description=Ainyava sddm theme
+Author=Eliver Lara
+Copyright=(c) 2023, Eliver Lara
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/ainyava/ainyava-kde
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=ainyava@gmail.com
+Theme-Id=ainyava
+Theme-API=2.0

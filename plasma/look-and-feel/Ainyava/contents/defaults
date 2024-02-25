@@ -1,0 +1,17 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=Ainyava
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[plasmarc][Theme]
+name=Ainyava
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Ainyava
+
+
